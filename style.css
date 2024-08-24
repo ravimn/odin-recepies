@@ -1,0 +1,42 @@
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    aspect-ratio: 1;
+}
+
+body p {
+    margin: 0
+}
+
+.name {
+    color:black;
+    border:none;
+    font: size 32px;
+    text-align: center;
+    font-family:fantasy;
+}
+
+.header {
+    /* background-color: rgb(252, 189, 14); */
+    color:black;
+    border:none;
+    font: size 28px;
+    text-align: center;
+    font-family: cursive;
+
+
+}
+
+.recipe-item, .recipe-description {
+    text-align: center;
+    list-style-position: inside;
+    list-style-type:none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 0.2cm;
+}
+
+
+
